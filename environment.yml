@@ -1,0 +1,4 @@
+name: automatic_qas
+channels:
+  - defaults
+prefix: /home/lucassoares/anaconda3/envs/automatic_qas
